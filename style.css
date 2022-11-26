@@ -1,0 +1,38 @@
+h1{
+  color: red; 
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+li{
+  color: crimson;
+  line-height: 50px;
+}
+h2{
+  color: red;
+  font-style: italic;
+}
+p{
+  color: chocolate;
+}
+.font{
+  letter-spacing: 4px;
+}
+.text{
+  font-size: 17px;
+  font-weight: bold;
+}
+.section2{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.gold{
+  background-color: gold;
+}
+.del{
+  text-decoration:line-through;
+}
+.line{
+  text-decoration: underline;
+}
+a{
+  text-decoration: none;
+  background-color: gold;
+}
