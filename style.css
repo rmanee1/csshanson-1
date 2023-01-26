@@ -1,39 +1,44 @@
-h1{
-  color: red; 
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+.heading{
+    color: red;
 }
-li{
-  color: crimson;
-  line-height: 50px;
+.heading1{
+    color: red;
+    font-style: italic;
+
+    
 }
-h2{
-  color: red;
-  font-style: italic;
+.li{
+    color:brown ;
 }
-p{
-  color: chocolate;
+.line3{
+    text-decoration: line-through;
+    color:maroon;
 }
-.font{
-  letter-spacing: 4px;
+.line4{
+    text-decoration: underline;
+    font-style: italic;
+    color:maroon;
 }
-.text{
-  font-size: 17px;
-  font-weight: bold;
+.heading2{
+    color: red;
+    font-style: italic;
+    
 }
-.section2{
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.li1{
+    text-decoration: none;
+    letter-spacing: 5px;
+    color: brown;
 }
-.gold{
-  background-color: gold;
-}
-.del{
-  text-decoration:line-through;
-}
-.line{
-  text-decoration: underline;
+.sp{
+    background-color: yellow;
 }
 a{
-  text-decoration: none;
-  background-color: gold;
-  color: red;
-}
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+ }
+ p{
+    color: brown;
+ }
